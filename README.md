@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://testdriven.io/blog/deploying-django-to-linode-with-docker-and-github-actions/">Continuously Deploying Django to Linode with Docker and GitHub Actions</a>
 🔹 <a href="https://testdriven.io/blog/django-mailchimp/">Integrating Mailchimp with Django</a>
 🔹 <a href="https://testdriven.io/blog/django-class-based-vs-function-based-views/">Class-based vs Function-based Views in Django</a>
 🔹 <a href="https://testdriven.io/blog/fastapi-elastic-beanstalk/">Deploying a FastAPI Application to Elastic Beanstalk</a>
 🔹 <a href="https://testdriven.io/blog/flask-elastic-beanstalk/">Deploying a Flask Application to Elastic Beanstalk</a>
-🔹 <a href="https://testdriven.io/blog/django-elastic-beanstalk/">Deploying a Django Application to Elastic Beanstalk</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
