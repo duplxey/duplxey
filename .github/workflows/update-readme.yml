@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  increase:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -16,6 +16,8 @@ jobs:
           python-version: '3.10'
       - name: Check Python version
         run:  python --version
+      - name: Install requirements.txt
+        run: pip install -r ./requirements.txt
       - name: Run update_posts.py script
         run: python ./scripts/update_posts.py ${{ secrets.API_POSTS_ENDPOINT }}
       - name: Commit and push changes
