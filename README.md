@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://testdriven.io/blog/django-fly/">Deploying a Django App to Fly.io</a>
 🔹 <a href="https://testdriven.io/blog/django-custom-user-model-migration/">Migrating to a Custom User Model Mid-project in Django</a>
 🔹 <a href="https://testdriven.io/blog/django-dokku/">Deploying a Django App to Dokku on DigitalOcean</a>
 🔹 <a href="https://testdriven.io/blog/heroku-alternatives/">Heroku Alternatives for Python-based Applications</a>
 🔹 <a href="https://testdriven.io/blog/deploying-django-to-linode-with-docker-and-github-actions/">CI/CD - Django and Docker with GitHub Actions</a>
-🔹 <a href="https://testdriven.io/blog/django-mailchimp/">Integrating Mailchimp with Django</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
