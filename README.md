@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://blog.back4app.com/react-firebase-authentication/">Ultimate Guide to React Firebase Authentication</a>
 🔹 <a href="https://testdriven.io/blog/django-render/">Deploying a Django App to Render</a>
 🔹 <a href="https://blog.back4app.com/how-to-build-a-backend-for-a-mobile-app/">How to Build a Backend for a Mobile App?</a>
 🔹 <a href="https://blog.back4app.com/how-to-deploy-node-js-application/">How to Deploy a Node.js Application?</a>
 🔹 <a href="https://testdriven.io/blog/django-fly/">Deploying a Django App to Fly.io</a>
-🔹 <a href="https://testdriven.io/blog/django-custom-user-model-migration/">Migrating to a Custom User Model Mid-project in Django</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
