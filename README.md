@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://testdriven.io/blog/django-azure-app-service/">Deploying a Django App to Azure App Service</a>
 🔹 <a href="https://blog.back4app.com/deploy-docker-container/">The Ultimate Guide to Deploy Docker Apps</a>
 🔹 <a href="https://blog.back4app.com/what-are-containers-in-cloud-computing/">What are Containers in Cloud Computing?</a>
 🔹 <a href="https://testdriven.io/blog/django-gae/">Deploying a Django App to Google App Engine</a>
 🔹 <a href="https://blog.back4app.com/chatbot-in-react-js/">How to build a Chatbot in React.js?</a>
-🔹 <a href="https://blog.back4app.com/react-firebase-authentication/">Ultimate Guide to React Firebase Authentication</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
