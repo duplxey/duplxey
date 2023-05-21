@@ -1,12 +1,6 @@
-name: update-readme
+name: update-readmes
 
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 2 * * *'
+on: [push]
 
 jobs:
   update-readme:
