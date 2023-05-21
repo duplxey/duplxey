@@ -12,15 +12,15 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
-🔹 <a href="https://testdriven.io/blog/django-rest-auth/">Django REST Framework Authentication</a>
-🔹 <a href="https://blog.back4app.com/how-to-build-and-deploy-a-python-application/">How to build and deploy a Python app?</a>
-🔹 <a href="https://blog.back4app.com/how-to-build-a-rest-api/">How to build a REST API?</a>
-🔹 <a href="https://blog.back4app.com/how-to-create-an-app-using-chatgpt/">How to create an app using ChatGPT?</a>
-🔹 <a href="https://blog.back4app.com/how-to-build-a-graphql-api/">How to build a GraphQL API?</a>
+{% posts %}
 
 <strong>Latest Projects</strong>
 
-{% projects %}
+🔹 MusicBuddy
+🔹 KingdomzIO
+🔹 GreenButton
+🔹 VideoLectures
+🔹 Cubeverse
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
