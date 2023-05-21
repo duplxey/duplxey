@@ -3,7 +3,7 @@ name: update-readme
 on: [push]
 
 jobs:
-  update-readme1:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -24,7 +24,7 @@ jobs:
           git add -A
           git commit -m "updated README.md"
           git push
-  update-readme2:
+  bump-backend:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -35,13 +35,5 @@ jobs:
         run:  python --version
       - name: Install requirements.txt
         run: pip install -r ./requirements.txt
-      - name: Run update_project.py script
-        run: python ./scripts/update_project.py ${{ secrets.PROJECTS }}
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "${{ secrets.GIT_USER }}"
-          git config --global user.email "${{ secrets.GIT_EMAIL }}"
-
-          git add -A
-          git commit -m "updated README.md"
-          git push
+      - name: Run bump_backend.py script
+        run: python ./scripts/bump_backend.py ${{ secrets.API_BUMP_ENDPOINT }}
