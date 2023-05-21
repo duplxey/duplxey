@@ -24,6 +24,11 @@ jobs:
           git add -A
           git commit -m "updated README.md"
           git push
+      - name: Generate artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: readme-artifact
+          path: README.md
   bump-backend:
     runs-on: ubuntu-latest
     steps:
