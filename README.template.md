@@ -14,6 +14,8 @@ working out, watching movies & playing FPS games.
 
 {% posts %}
 
+This is a test.
+
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
 </pre>
