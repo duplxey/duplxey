@@ -18,7 +18,7 @@ working out, watching movies & playing FPS games.
 🔹 <a href="https://blog.back4app.com/how-to-create-an-app-using-chatgpt/">How to create an app using ChatGPT?</a>
 🔹 <a href="https://blog.back4app.com/how-to-build-a-graphql-api/">How to build a GraphQL API?</a>
 
-Test 2x
+Test 3x
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
