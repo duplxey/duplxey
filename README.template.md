@@ -1,6 +1,6 @@
 <pre>
 💻 <strong>Full Stack Developer</strong>
-📌 Location: <a href="https://www.google.com/maps/place/Slovenia/">Slovenia, Europe</a>
+📌 Location: <a href="https://www.google.com/maps/place/Cork/">Ireland, Europe</a>
 ⭐ Building scalable web & mobile applications
 
 <strong>Technologies</strong>
