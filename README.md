@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://blog.back4app.com/ai-web-application-development/">How to use AI for web development?</a>
 🔹 <a href="https://blog.back4app.com/backend-infrastructure/">What is backend infrastructure?</a>
 🔹 <a href="https://blog.back4app.com/how-to-host-frontend-and-backend/">How to host frontend and backend?</a>
 🔹 <a href="https://blog.back4app.com/deploy-to-heroku/">How to deploy an application to Heroku?</a>
 🔹 <a href="https://testdriven.io/blog/customize-django-admin/">Customizing the Django Admin</a>
-🔹 <a href="https://blog.back4app.com/how-to-build-a-backend-for-an-android-app/">How to build a backend for an Android app?</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
