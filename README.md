@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://blog.appsignal.com/2024/02/28/track-errors-in-your-python-django-application-with-appsignal.html">Track Errors in Your Django App with AppSignal</a>
+🔹 <a href="https://blog.back4app.com/database-schema-ai/">How to use AI for database schema generation?</a>
+🔹 <a href="https://blog.back4app.com/how-to-deploy-a-postgres-backed-react-app/">How to deploy a Postgres-backed React app?</a>
 🔹 <a href="https://blog.back4app.com/ai-web-application-development/">How to use AI for web development?</a>
 🔹 <a href="https://blog.back4app.com/backend-infrastructure/">What is backend infrastructure?</a>
-🔹 <a href="https://blog.back4app.com/how-to-host-frontend-and-backend/">How to host frontend and backend?</a>
-🔹 <a href="https://blog.back4app.com/deploy-to-heroku/">How to deploy an application to Heroku?</a>
-🔹 <a href="https://testdriven.io/blog/customize-django-admin/">Customizing the Django Admin</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
