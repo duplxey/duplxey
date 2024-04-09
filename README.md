@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://blog.back4app.com/deploy-remix/">How to host a Remix application?</a>
 🔹 <a href="https://testdriven.io/blog/drf-pros-cons/">Django REST Framework: Pros and Cons</a>
 🔹 <a href="https://blog.appsignal.com/2024/02/28/track-errors-in-your-python-django-application-with-appsignal.html">Track Errors in Your Django App with AppSignal</a>
 🔹 <a href="https://blog.back4app.com/database-schema-ai/">How to use AI for database schema generation?</a>
 🔹 <a href="https://blog.back4app.com/how-to-deploy-a-postgres-backed-react-app/">How to deploy a Postgres-backed React app?</a>
-🔹 <a href="https://blog.back4app.com/ai-web-application-development/">How to use AI for web development?</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
