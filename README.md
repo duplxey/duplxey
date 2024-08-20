@@ -12,11 +12,11 @@ working out, watching movies & playing FPS games.
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://testdriven.io/blog/django-limiting-content-types/">Limiting Content Types in a Django Model</a>
 🔹 <a href="https://blog.back4app.com/ai-assistant-backend/">Build an AI assistant using OpenAI and Back4app</a>
 🔹 <a href="https://testdriven.io/blog/django-approximate-counting/">Approximate Counting in Django and Postgres</a>
 🔹 <a href="https://blog.back4app.com/react-native-authentication/">How to Add Authentication to a React Native App?</a>
 🔹 <a href="https://blog.appsignal.com/2024/05/29/track-errors-in-your-python-flask-application-with-appsignal.html">Track Errors in Your Flask App with AppSignal</a>
-🔹 <a href="https://blog.back4app.com/how-to-deploy-a-machine-learning-model/">How to Deploy a Machine Learning Model?</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
