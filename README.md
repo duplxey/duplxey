@@ -12,11 +12,11 @@ working out, watching movies & travelling. ✈️
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://testdriven.io/blog/django-ecs-aws-copilot/">Deploying a Django App to AWS ECS with AWS Copilot</a>
 🔹 <a href="https://blog.appsignal.com/2024/12/04/find-and-fix-n-plus-one-queries-in-django-using-appsignal.html">Find and Fix N+1 Queries in Django Using AppSignal</a>
 🔹 <a href="https://testdriven.io/blog/django-avoid-counting/">Avoid Counting in Django Pagination</a>
 🔹 <a href="https://testdriven.io/blog/django-limiting-content-types/">Limiting Content Types in a Django Model</a>
 🔹 <a href="https://blog.back4app.com/ai-assistant-backend/">Build an AI assistant using OpenAI and Back4app</a>
-🔹 <a href="https://testdriven.io/blog/django-approximate-counting/">Approximate Counting in Django and Postgres</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
