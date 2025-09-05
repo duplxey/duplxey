@@ -12,11 +12,11 @@ working out, watching movies & travelling. ✈️
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://sevalla.com/blog/django-static-and-media-files/">Handling Django Static and Media Files</a>
 🔹 <a href="https://testdriven.io/blog/django-sevalla/">Deploying a Django App to Sevalla</a>
 🔹 <a href="https://testdriven.io/blog/django-multi-tenant/">Building a Multi-tenant App with Django</a>
 🔹 <a href="https://testdriven.io/blog/django-admin-celery/">Running Background Tasks from Django Admin with Celery</a>
 🔹 <a href="https://testdriven.io/blog/django-query-optimization/">Django Query Optimization - Defer, Only, and Exclude</a>
-🔹 <a href="https://testdriven.io/blog/django-ecs-aws-copilot/">Deploying a Django App to AWS ECS with AWS Copilot</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
