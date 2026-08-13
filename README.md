@@ -12,11 +12,11 @@ working out, watching movies & travelling. ✈️
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://testdriven.io/blog/django-cloudflare-r2/">Storing Django Static and Media Files on Cloudflare R2</a>
 🔹 <a href="https://sevalla.com/blog/real-time-openai-streaming-fastapi/">Real-time OpenAI Response Streaming with FastAPI</a>
 🔹 <a href="https://sevalla.com/blog/deploy-django-app-to-sevalla/">Deploying a Django App to Sevalla (v2)</a>
 🔹 <a href="https://sevalla.com/blog/django-long-running-tasks-with-celery/">Handling Long Running Tasks in Django</a>
 🔹 <a href="https://sevalla.com/blog/django-static-and-media-files/">Handling Django Static and Media Files</a>
-🔹 <a href="https://testdriven.io/blog/django-sevalla/">Deploying a Django App to Sevalla</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
