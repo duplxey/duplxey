@@ -12,11 +12,11 @@ working out, watching movies & travelling. ✈️
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://browser-use.com/posts/browser-use-vs-browserbase">Browser Use vs Browserbase</a>
 🔹 <a href="https://browser-use.com/posts/playwright-vs-selenium-vs-puppeteer">Playwright vs Selenium vs Puppeteer</a>
 🔹 <a href="https://browser-use.com/posts/what-is-a-headless-browser">What is a Headless Browser?</a>
 🔹 <a href="https://testdriven.io/blog/django-cloudflare-r2/">Storing Django Static and Media Files on Cloudflare R2</a>
 🔹 <a href="https://sevalla.com/blog/real-time-openai-streaming-fastapi/">Real-time OpenAI Response Streaming with FastAPI</a>
-🔹 <a href="https://sevalla.com/blog/deploy-django-app-to-sevalla/">Deploying a Django App to Sevalla (v2)</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
