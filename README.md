@@ -12,11 +12,11 @@ working out, watching movies & travelling. ✈️
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://browser-use.com/posts/browser-agents">What is a Browser Agent?</a>
+🔹 <a href="https://browser-use.com/posts/browser-use-vs-firecrawl">Browser Use vs Firecrawl</a>
+🔹 <a href="https://browser-use.com/posts/what-is-browser-fingerprinting">What Is Browser Fingerprinting?</a>
 🔹 <a href="https://browser-use.com/posts/automate-job-applications-with-python">How to Automate Job Applications with Python</a>
-🔹 <a href="https://browser-use.com/posts/best-browser-infrastructure-for-ai-agents">Best Browser Infrastructure for AI Agents (2026)</a>
-🔹 <a href="https://browser-use.com/posts/what-is-chrome-devtools-protocol">What is Chrome DevTools Protocol (CDP)?</a>
-🔹 <a href="https://browser-use.com/posts/browser-use-vs-browserbase">Browser Use vs Browserbase</a>
-🔹 <a href="https://browser-use.com/posts/playwright-vs-selenium-vs-puppeteer">Playwright vs Selenium vs Puppeteer</a>
+🔹 <a href="https://browser-use.com/posts/best-ai-agent-frameworks">The Best AI Agent Frameworks</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
