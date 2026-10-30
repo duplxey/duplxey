@@ -12,11 +12,11 @@ working out, watching movies & travelling. ✈️
 
 <strong>Latest Blog Posts</strong>
 
+🔹 <a href="https://browser-use.com/posts/browser-use-vs-browserless">Browser Use vs Browserless</a>
+🔹 <a href="https://browser-use.com/posts/browser-automation-tools">11 Best Browser Automation Tools</a>
 🔹 <a href="https://browser-use.com/posts/browser-agents">What is a Browser Agent?</a>
 🔹 <a href="https://browser-use.com/posts/browser-use-vs-firecrawl">Browser Use vs Firecrawl</a>
 🔹 <a href="https://browser-use.com/posts/what-is-browser-fingerprinting">What Is Browser Fingerprinting?</a>
-🔹 <a href="https://browser-use.com/posts/automate-job-applications-with-python">How to Automate Job Applications with Python</a>
-🔹 <a href="https://browser-use.com/posts/best-ai-agent-frameworks">The Best AI Agent Frameworks</a>
 
 For more information check out my website:
 🌐 <a href="https://duplxey.com">https://duplxey.com</a>
